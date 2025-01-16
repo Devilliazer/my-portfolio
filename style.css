@@ -1,9 +1,35 @@
 body {
-  font-family: Arial, sans-serif;
+  background: linear-gradient(135deg, #f5f7fa, #c3cfe2);
+  color: #333;
+  font-family: Roboto, Arial, sans-serif;
   line-height: 1.6;
   margin: 0;
   padding: 0;
   background-color: #f4f4f4;
+}
+h1,
+h2 {
+  color: #2a5298;
+}
+
+button {
+  background-color: #2a5298;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #1e3d70;
+}
+
+button {
+  transition: background-color 0.3s ease, transform 0.2s ease;
+}
+button:hover {
+  transform: scale(1.05);
 }
 
 header {
@@ -97,4 +123,18 @@ form button {
 
 form button:hover {
   background-color: #555;
+}
+
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+    transform: translateY(-20px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+h1 {
+  animation: fadeIn 1.5s ease-out;
 }
