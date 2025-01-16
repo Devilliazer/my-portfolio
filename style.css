@@ -141,3 +141,65 @@ form button:hover {
 h1 {
   animation: fadeIn 1.5s ease-out;
 }
+
+/* Секція "Мої проєкти" */
+#projects {
+  margin: 40px auto;
+  padding: 20px;
+  max-width: 1200px;
+  background: #f9f9f9;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+#projects h2 {
+  text-align: center;
+  color: #333;
+  margin-bottom: 20px;
+}
+
+.project-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+}
+
+.project-item {
+  flex: 1 1 calc(33.333% - 20px);
+  background: #fff;
+  padding: 15px;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.project-item:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.project-item h3 {
+  margin: 0 0 10px;
+  color: #007bff;
+}
+
+.project-item p {
+  margin: 0 0 15px;
+  color: #666;
+}
+
+.project-item a {
+  display: inline-block;
+  text-decoration: none;
+  color: #fff;
+  background: #007bff;
+  padding: 10px 15px;
+  border-radius: 5px;
+  transition: background 0.3s ease;
+}
+
+.project-item a:hover {
+  background: #0056b3;
+}
