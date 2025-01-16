@@ -24,8 +24,8 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-artifact@v4
         with:
-          name: github-pages
-          path: . # Завантажуємо всі файли проекту, включно з index.html
+          name: site
+          path: . # Усі файли з кореневої папки
 
   deploy_pages:
     needs: deploy
@@ -38,4 +38,4 @@ jobs:
       - name: Deploy to GitHub Pages
         uses: actions/deploy-pages@v1
         with:
-          artifact-name: github-pages
+          artifact-name: site
