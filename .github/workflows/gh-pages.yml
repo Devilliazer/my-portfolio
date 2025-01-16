@@ -26,6 +26,7 @@ jobs:
         with:
           name: site
           path: ./
+
   deploy_pages:
     needs: deploy
     runs-on: ubuntu-latest
@@ -37,5 +38,3 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         uses: actions/deploy-pages@v1
-        with:
-          artifact-name: site
