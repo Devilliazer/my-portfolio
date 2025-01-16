@@ -23,7 +23,7 @@ jobs:
       - name: Build project
         run: |
           mkdir public
-          cp -r * public/
+           cp -r $(find . -type f ! -path "./public/*") public/
           echo "Build complete"
 
       - name: Upload artifact
