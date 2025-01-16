@@ -25,12 +25,13 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: site
-          path: . # Усі файли з кореневої папки
+          path: ./G:\MyPortfolio
 
   deploy_pages:
     needs: deploy
     runs-on: ubuntu-latest
     permissions:
+      contents: read
       pages: write
       id-token: write
 
