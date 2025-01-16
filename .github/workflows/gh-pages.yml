@@ -11,9 +11,8 @@ permissions:
   id-token: write
 
 jobs:
-  deploy:
+  build:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
@@ -21,14 +20,20 @@ jobs:
       - name: Setup Pages
         uses: actions/configure-pages@v2
 
+      - name: Build project
+        run: |
+          mkdir public
+          cp -r * public/
+          echo "Build complete"
+
       - name: Upload artifact
         uses: actions/upload-artifact@v4
         with:
           name: github-pages
-          path: . # Додаємо всі файли до артефакту
+          path: public
 
   deploy_pages:
-    needs: deploy
+    needs: build
     runs-on: ubuntu-latest
     permissions:
       pages: write
@@ -37,3 +42,5 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         uses: actions/deploy-pages@v1
+        with:
+          artifact-name: github-pages
