@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="uk">
+  <head>
+    <link rel="stylesheet" href="style.css" />
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Моє портфоліо</title>
+  </head>
+  <body>
+    <header>
+      <h1>Привіт! Я Dmytro</h1>
+      <p>Ласкаво прошу на мою особисту сторінку!</p>
+    </header>
+
+    <section>
+      <h2>Про мене</h2>
+      <img src="avatar.jpg" alt="Моє фото" width="200" />
+      <p>Я цікавлюся програмуванням та люблю вирішувати складні завдання.</p>
+      <button id="toggleInfo">Дізнатися більше</button>
+      <p id="extraInfo" style="display: none">
+        Додаткова інформація про мої захоплення та майбутні плани.
+      </p>
+    </section>
+
+    <section class="skills">
+      <h2>Навички</h2>
+      <ul>
+        <li>HTML / CSS — базовий рівень</li>
+        <li>JavaScript — початковий рівень</li>
+        <li>Програмування C++ / C# — пробував, в процесі вивчення</li>
+      </ul>
+    </section>
+
+    <footer>
+      <section>
+        <h2>Зв’яжіться зі мною</h2>
+        <form>
+          <label for="name">Ваше ім’я:</label>
+          <input type="text" id="name" name="name" required />
+          <label for="email">Ваш email:</label>
+          <input type="email" id="email" name="email" required />
+          <label for="message">Повідомлення:</label>
+          <textarea id="message" name="message" rows="5" required></textarea>
+          <button type="submit">Надіслати</button>
+        </form>
+      </section>
+    </footer>
+
+    <!-- Підключення скрипта -->
+    <script src="script.js"></script>
+  </body>
+</html>
