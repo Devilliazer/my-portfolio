@@ -18,6 +18,9 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
+      - name: Log directory structure
+        run: ls -la # Перевірка, чи є файли в кореневій папці
+
       - name: Setup Pages
         uses: actions/configure-pages@v2
 
