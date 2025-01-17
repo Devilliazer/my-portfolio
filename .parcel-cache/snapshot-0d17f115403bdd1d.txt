@@ -1,4 +1,4 @@
-4904
+4831
 71G:\MyPortfolio\node_modules\cosmiconfig\dist\canUseDynamicImport.js.map133816127370013639 0
 40G:\MyPortfolio\node_modules\caniuse-lite133816127381257344 1
 36G:\MyPortfolio\node_modules\argparse133816127369371970 1
@@ -12,7 +12,7 @@
 64G:\MyPortfolio\node_modules\@swc\helpers\_\_type_of\package.json133816127374392693 0
 59G:\MyPortfolio\node_modules\caniuse-lite\data\regions\CR.js133816127373418734 0
 52G:\MyPortfolio\node_modules\react-refresh\runtime.js133816127372616188 0
-27G:\MyPortfolio\package.json133816210867024147 0
+27G:\MyPortfolio\package.json133816224443527490 0
 75G:\MyPortfolio\node_modules\caniuse-lite\data\features\css-cascade-scope.js133816127373702370 0
 51G:\MyPortfolio\node_modules\@swc\types\package.json133816127371518570 0
 81G:\MyPortfolio\node_modules\@swc\helpers\_\_async_generator_delegate\package.json133816127373902528 0
@@ -38,12 +38,11 @@
 59G:\MyPortfolio\node_modules\@parcel\transformer-svg\LICENSE133816127385039597 0
 70G:\MyPortfolio\node_modules\entities\lib\esm\decode_codepoint.d.ts.map133816127368545072 0
 46G:\MyPortfolio\node_modules\async\applyEach.js133816210866002553 0
-95G:\MyPortfolio\node_modules\.cache\gh-pages\https!github.com!Devilliazer!my-portfolio\.git\HEAD133816211053887361 0
 67G:\MyPortfolio\node_modules\caniuse-lite\data\features\svg-fonts.js133816127380013846 0
 37G:\MyPortfolio\node_modules\@mischnic133816127367000087 1
 58G:\MyPortfolio\node_modules\posthtml\node_modules\entities133816127403017850 1
 58G:\MyPortfolio\node_modules\semver\functions\prerelease.js133816127374429671 0
-19G:\MyPortfolio\dist133816206265254366 1
+19G:\MyPortfolio\dist133816241014883028 1
 50G:\MyPortfolio\node_modules\env-paths\package.json133816127369632537 0
 72G:\MyPortfolio\node_modules\posthtml\node_modules\entities\lib\decode.js133816127402883814 0
 45G:\MyPortfolio\node_modules\semver\preload.js133816127374429671 0
@@ -86,7 +85,7 @@
 77G:\MyPortfolio\node_modules\@swc\helpers\esm\_define_enumerable_properties.js133816127373480954 0
 47G:\MyPortfolio\node_modules\type-fest\base.d.ts133816127370254457 0
 73G:\MyPortfolio\node_modules\node-gyp-build-optional-packages\node_modules133816127367020092 1
-29G:\MyPortfolio\src\index.html133816146550188147 0
+29G:\MyPortfolio\src\index.html133816239425377475 0
 38G:\MyPortfolio\node_modules\domhandler133816127368304150 1
 63G:\MyPortfolio\node_modules\@swc\helpers\_\_object_spread_props133816127374219027 1
 65G:\MyPortfolio\node_modules\@parcel\types-internal\lib\Cache.d.ts133816127380265192 0
@@ -134,7 +133,6 @@
 38G:\MyPortfolio\node_modules\async\dist133816210866888872 1
 64G:\MyPortfolio\node_modules\caniuse-lite\data\features\run-in.js133816127379642372 0
 45G:\MyPortfolio\node_modules\async\wrapSync.js133816210866863484 0
-98G:\MyPortfolio\node_modules\.cache\gh-pages\https!github.com!Devilliazer!my-portfolio\.git\objects133816211056171885 1
 52G:\MyPortfolio\node_modules\postcss-value-parser\lib133816127371683757 1
 85G:\MyPortfolio\node_modules\@parcel\transformer-html\node_modules\srcset\package.json133816127403575715 0
 55G:\MyPortfolio\node_modules\@parcel\package-manager\lib133816127402995640 1
@@ -241,14 +239,12 @@
 73G:\MyPortfolio\node_modules\cosmiconfig\dist\canUseDynamicImport.d.ts.map133816127370003596 0
 46G:\MyPortfolio\node_modules\chrome-trace-event133816127372733601 1
 70G:\MyPortfolio\node_modules\caniuse-lite\data\features\font-loading.js133816127376891721 0
-101G:\MyPortfolio\node_modules\.cache\gh-pages\https!github.com!Devilliazer!my-portfolio\.git\objects\25133816211055819327 1
 50G:\MyPortfolio\node_modules\import-fresh\readme.md133816127369452961 0
 41G:\MyPortfolio\node_modules\color-convert133816127369971557 1
 57G:\MyPortfolio\node_modules\caniuse-lite\data\features.js133816127376553829 0
 38G:\MyPortfolio\node_modules\color-name133816127370431596 1
 37G:\MyPortfolio\node_modules\commander133816127395562679 1
 59G:\MyPortfolio\node_modules\@parcel\reporter-dev-server\src133816127403741283 1
-96G:\MyPortfolio\node_modules\.cache\gh-pages\https!github.com!Devilliazer!my-portfolio\.git\hooks133816211038636000 1
 37G:\MyPortfolio\node_modules\commondir133816210865440347 1
 62G:\MyPortfolio\node_modules\@swc\helpers\src\_create_class.mjs133816127374652170 0
 59G:\MyPortfolio\node_modules\caniuse-lite\data\regions\GL.js133816127377302736 0
@@ -303,7 +299,6 @@
 43G:\MyPortfolio\node_modules\find-up\license133816210864922231 0
 36G:\MyPortfolio\node_modules\escalade133816127368142772 1
 38G:\MyPortfolio\node_modules\fill-range133816127368639916 1
-108G:\MyPortfolio\node_modules\.cache\gh-pages\https!github.com!Devilliazer!my-portfolio\index.2cdaf7bc.css.map133816211054461104 0
 44G:\MyPortfolio\node_modules\semver\range.bnf133816127374197823 0
 44G:\MyPortfolio\node_modules\cosmiconfig\dist133816127370243355 1
 35G:\MyPortfolio\node_modules\find-up133816210864922231 1
@@ -313,7 +308,7 @@
 70G:\MyPortfolio\node_modules\@parcel\config-default\test\config.test.js133816127407363791 0
 43G:\MyPortfolio\node_modules\globby\index.js133816210865647531 0
 78G:\MyPortfolio\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\chacha8.h133816127377571719 0
-43G:\MyPortfolio\.github\workflows\deploy.yml133816207832071610 0
+43G:\MyPortfolio\.github\workflows\deploy.yml133816224803554235 0
 76G:\MyPortfolio\node_modules\caniuse-lite\data\features\html-media-capture.js133816127377602374 0
 48G:\MyPortfolio\node_modules\semver\bin\semver.js133816127374487606 0
 82G:\MyPortfolio\node_modules\@swc\helpers\_\_object_without_properties\package.json133816127374234075 0
@@ -429,7 +424,6 @@
 32G:\MyPortfolio\node_modules\lmdb133816127378155278 1
 39G:\MyPortfolio\node_modules\locate-path133816210864911952 1
 74G:\MyPortfolio\node_modules\posthtml\node_modules\domutils\lib\querying.js133816127402916510 0
-114G:\MyPortfolio\node_modules\.cache\gh-pages\https!github.com!Devilliazer!my-portfolio\.git\hooks\pre-rebase.sample133816211038622043 0
 36G:\MyPortfolio\node_modules\make-dir133816210865535790 1
 70G:\MyPortfolio\node_modules\utility-types\dist\functional-helpers.d.ts133816127371683757 0
 34G:\MyPortfolio\node_modules\merge2133816210865244229 1
@@ -692,7 +686,6 @@
 82G:\MyPortfolio\node_modules\@swc\helpers\_\_class_static_private_field_destructure133816127374013424 1
 53G:\MyPortfolio\node_modules\@parcel\utils\src\glob.js133816127401675449 0
 48G:\MyPortfolio\node_modules\semver\ranges\ltr.js133816127374361337 0
-122G:\MyPortfolio\node_modules\.cache\gh-pages\https!github.com!Devilliazer!my-portfolio\.git\hooks\sendemail-validate.sample133816211038636000 0
 77G:\MyPortfolio\node_modules\caniuse-lite\data\features\link-rel-preconnect.js133816127378433177 0
 56G:\MyPortfolio\node_modules\ordered-binary\tests\test.js133816127369361598 0
 49G:\MyPortfolio\node_modules\htmlparser2\README.md133816127368614833 0
@@ -791,8 +784,6 @@
 119G:\MyPortfolio\node_modules\@parcel\core\test\fixtures\plugins\node_modules\parcel-transformer-bad-engines\package.json133816127409164431 0
 52G:\MyPortfolio\node_modules\@parcel\packager-svg\lib133816127395393400 1
 45G:\MyPortfolio\node_modules\.bin\gh-pages.cmd133816210866992503 0
-103G:\MyPortfolio\node_modules\.cache\gh-pages\https!github.com!Devilliazer!my-portfolio\.git\refs\remotes133816211068196086 1
-107G:\MyPortfolio\node_modules\.cache\gh-pages\https!github.com!Devilliazer!my-portfolio\index.9bbb5024.js.map133816211054471106 0
 58G:\MyPortfolio\node_modules\type-fest\source\asyncify.d.ts133816127370243355 0
 67G:\MyPortfolio\node_modules\@parcel\packager-svg\src\SVGPackager.js133816127395417673 0
 43G:\MyPortfolio\node_modules\semver\index.js133816127374340711 0
@@ -1024,7 +1015,6 @@
 104G:\MyPortfolio\node_modules\msgpackr-extract\node_modules\.bin\node-gyp-build-optional-packages-test.cmd133816127459839624 0
 51G:\MyPortfolio\node_modules\@parcel\core\src\public133816127408871369 1
 46G:\MyPortfolio\node_modules\parse-json\license133816127369382376 0
-96G:\MyPortfolio\node_modules\.cache\gh-pages\https!github.com!Devilliazer!my-portfolio\index.html133816211054471106 0
 53G:\MyPortfolio\node_modules\resolve-from\package.json133816127369220328 0
 52G:\MyPortfolio\node_modules\@swc\helpers\esm\_get.js133816127373522782 0
 110G:\MyPortfolio\node_modules\posthtml\node_modules\dom-serializer\node_modules\entities\lib\decode_codepoint.js133816127402106680 0
@@ -1155,7 +1145,6 @@
 83G:\MyPortfolio\node_modules\posthtml\node_modules\dom-serializer\lib\esm\index.d.ts133816127402569177 0
 50G:\MyPortfolio\node_modules\@parcel\plugin\LICENSE133816127384422309 0
 46G:\MyPortfolio\node_modules\reusify\reusify.js133816210864933587 0
-109G:\MyPortfolio\node_modules\.cache\gh-pages\https!github.com!Devilliazer!my-portfolio\MyPortfolio.59712999.js133816211054471106 0
 59G:\MyPortfolio\node_modules\caniuse-lite\data\regions\BO.js133816127372801633 0
 50G:\MyPortfolio\node_modules\async\forEachSeries.js133816210866502516 0
 70G:\MyPortfolio\node_modules\reusify\benchmarks\createNoCodeFunction.js133816210864955132 0
@@ -1599,7 +1588,6 @@
 45G:\MyPortfolio\node_modules\path-type\license133816210865048148 0
 70G:\MyPortfolio\node_modules\@swc\helpers\_\_object_destructuring_empty133816127374219027 1
 47G:\MyPortfolio\node_modules\path-type\readme.md133816210865060100 0
-115G:\MyPortfolio\node_modules\.cache\gh-pages\https!github.com!Devilliazer!my-portfolio\.git\hooks\pre-receive.sample133816211038622043 0
 59G:\MyPortfolio\node_modules\caniuse-lite\data\regions\EE.js133816127376193036 0
 48G:\MyPortfolio\node_modules\path-exists\index.js133816210864876687 0
 47G:\MyPortfolio\node_modules\path-exists\license133816210864901838 0
@@ -1708,7 +1696,6 @@
 74G:\MyPortfolio\node_modules\node-gyp-build-optional-packages\build-test.js133816127368983473 0
 72G:\MyPortfolio\node_modules\@swc\helpers\_\_define_enumerable_properties133816127374079212 1
 59G:\MyPortfolio\node_modules\caniuse-lite\data\regions\GD.js133816127377118027 0
-124G:\MyPortfolio\node_modules\.cache\gh-pages\https!github.com!Devilliazer!my-portfolio\.git\logs\refs\remotes\origin\gh-pages133816211068206640 0
 68G:\MyPortfolio\node_modules\node-gyp-build-optional-packages\LICENSE133816127368961040 0
 52G:\MyPortfolio\node_modules\entities\lib\escape.d.ts133816127369090326 0
 75G:\MyPortfolio\node_modules\@parcel\transformer-json\lib\JSONTransformer.js133816127388368697 0
@@ -1863,7 +1850,7 @@
 58G:\MyPortfolio\node_modules\@parcel\core\src\AssetGraph.js133816127406071548 0
 41G:\MyPortfolio\node_modules\@parcel\cache133816127383687611 1
 51G:\MyPortfolio\node_modules\micromatch\package.json133816127371317441 0
-47G:\MyPortfolio\dist\MyPortfolio.59712999.js.map133816200248886930 0
+47G:\MyPortfolio\dist\MyPortfolio.59712999.js.map133816231497399849 0
 59G:\MyPortfolio\node_modules\domutils\lib\esm\traversal.d.ts133816127369070509 0
 53G:\MyPortfolio\node_modules\entities\lib\esm\index.js133816127368494031 0
 85G:\MyPortfolio\node_modules\@swc\helpers\src\_class_static_private_field_spec_set.mjs133816127374621595 0
@@ -2112,7 +2099,6 @@
 38G:\MyPortfolio\node_modules\@parcel\fs133816127407772744 1
 59G:\MyPortfolio\node_modules\caniuse-lite\data\regions\BG.js133816127372664216 0
 54G:\MyPortfolio\node_modules\lightningcss\node\ast.d.ts133816127373622499 0
-105G:\MyPortfolio\node_modules\.cache\gh-pages\https!github.com!Devilliazer!my-portfolio\avatar.a3c6ab3e.jpg133816211054471106 0
 50G:\MyPortfolio\node_modules\dotenv-expand\tea.yaml133816127374717903 0
 53G:\MyPortfolio\node_modules\domutils\lib\esm\index.js133816127368053415 0
 59G:\MyPortfolio\node_modules\caniuse-lite\data\regions\WF.js133816127381079606 0
@@ -2199,7 +2185,6 @@
 53G:\MyPortfolio\node_modules\js-yaml\lib\type\pairs.js133816127369661578 0
 51G:\MyPortfolio\node_modules\js-yaml\lib\type\seq.js133816127369677253 0
 51G:\MyPortfolio\node_modules\js-yaml\lib\type\set.js133816127369677253 0
-120G:\MyPortfolio\node_modules\.cache\gh-pages\https!github.com!Devilliazer!my-portfolio\.git\hooks\pre-merge-commit.sample133816211038622043 0
 51G:\MyPortfolio\node_modules\js-yaml\lib\type\str.js133816127369685550 0
 57G:\MyPortfolio\node_modules\js-yaml\lib\type\timestamp.js133816127369685550 0
 59G:\MyPortfolio\node_modules\caniuse-lite\data\regions\GU.js133816127377462149 0
@@ -2326,7 +2311,6 @@
 40G:\MyPortfolio\node_modules\htmlnano\lib133816127375015092 1
 50G:\MyPortfolio\node_modules\escalade\sync\index.js133816127367997833 0
 74G:\MyPortfolio\node_modules\@parcel\transformer-postcss\lib\loadPlugins.js133816127388250286 0
-102G:\MyPortfolio\node_modules\.cache\gh-pages\https!github.com!Devilliazer!my-portfolio\.git\description133816211038598807 0
 46G:\MyPortfolio\node_modules\htmlnano\README.md133816127374830505 0
 59G:\MyPortfolio\node_modules\caniuse-lite\data\regions\BY.js133816127372922225 0
 44G:\MyPortfolio\node_modules\htmlnano\test.js133816127373418734 0
@@ -2637,7 +2621,6 @@
 64G:\MyPortfolio\node_modules\fast-glob\out\providers\transformers133816210865691956 1
 69G:\MyPortfolio\node_modules\cosmiconfig\dist\getPropertyByPath.js.map133816127370101261 0
 73G:\MyPortfolio\node_modules\fast-glob\out\providers\matchers\matcher.d.ts133816210865824889 0
-105G:\MyPortfolio\node_modules\.cache\gh-pages\https!github.com!Devilliazer!my-portfolio\avatar.c3f0c34a.jpg133816211054486154 0
 71G:\MyPortfolio\node_modules\fast-glob\out\providers\matchers\matcher.js133816210865451386 0
 70G:\MyPortfolio\node_modules\caniuse-lite\data\features\cryptography.js133816127373470516 0
 46G:\MyPortfolio\node_modules\domhandler\LICENSE133816127368042392 0
@@ -2646,7 +2629,6 @@
 57G:\MyPortfolio\node_modules\@parcel\profiler\lib\types.js133816127384118217 0
 67G:\MyPortfolio\node_modules\fast-glob\out\providers\filters\deep.js133816210865369266 0
 61G:\MyPortfolio\node_modules\@swc\helpers\_\index\package.json133816127374429671 0
-114G:\MyPortfolio\node_modules\.cache\gh-pages\https!github.com!Devilliazer!my-portfolio\.git\hooks\commit-msg.sample133816211038609130 0
 73G:\MyPortfolio\node_modules\caniuse-lite\data\features\css-paged-media.js133816127374544390 0
 70G:\MyPortfolio\node_modules\fast-glob\out\providers\filters\entry.d.ts133816210865681959 0
 62G:\MyPortfolio\node_modules\@parcel\graph\lib\AdjacencyList.js133816127384057718 0
@@ -2931,9 +2913,7 @@
 58G:\MyPortfolio\node_modules\@parcel\watcher\src\DirTree.hh133816127374100524 0
 54G:\MyPortfolio\node_modules\@parcel\compressor-raw\lib133816127398819429 1
 79G:\MyPortfolio\node_modules\@swc\helpers\src\_class_apply_descriptor_update.mjs133816127374544390 0
-104G:\MyPortfolio\node_modules\.cache\gh-pages\https!github.com!Devilliazer!my-portfolio\index.2c83125a.css133816211054461104 0
 55G:\MyPortfolio\node_modules\cosmiconfig\dist\merge.d.ts133816127370232169 0
-108G:\MyPortfolio\node_modules\.cache\gh-pages\https!github.com!Devilliazer!my-portfolio\index.2c83125a.css.map133816211054461104 0
 59G:\MyPortfolio\node_modules\cosmiconfig\dist\merge.d.ts.map133816127370129669 0
 53G:\MyPortfolio\node_modules\cosmiconfig\dist\merge.js133816127369956944 0
 65G:\MyPortfolio\node_modules\@swc\helpers\cjs\_define_property.cjs133816127372778120 0
@@ -3085,7 +3065,6 @@
 59G:\MyPortfolio\node_modules\caniuse-lite\data\regions\MW.js133816127378869429 0
 67G:\MyPortfolio\node_modules\@swc\helpers\cjs\_apply_decs_2203_r.cjs133816127372319112 0
 59G:\MyPortfolio\node_modules\caniuse-lite\data\regions\NE.js133816127378931734 0
-101G:\MyPortfolio\node_modules\.cache\gh-pages\https!github.com!Devilliazer!my-portfolio\.git\refs\heads133816211056076528 1
 59G:\MyPortfolio\node_modules\caniuse-lite\data\regions\NF.js133816127378943384 0
 59G:\MyPortfolio\node_modules\caniuse-lite\data\regions\NG.js133816127378943384 0
 59G:\MyPortfolio\node_modules\caniuse-lite\data\regions\NI.js133816127378953428 0
@@ -3228,7 +3207,6 @@
 70G:\MyPortfolio\node_modules\caniuse-lite\data\features\console-time.js133816127373282245 0
 74G:\MyPortfolio\node_modules\caniuse-lite\data\features\text-size-adjust.js133816127380175345 0
 69G:\MyPortfolio\node_modules\@swc\helpers\esm\_wrap_async_generator.js133816127373804807 0
-108G:\MyPortfolio\node_modules\.cache\gh-pages\https!github.com!Devilliazer!my-portfolio\.git\logs\refs\remotes133816211068206640 1
 63G:\MyPortfolio\node_modules\caniuse-lite\data\features\const.js133816127373292301 0
 66G:\MyPortfolio\node_modules\@parcel\core\test\PublicBundle.test.js133816127408641234 0
 79G:\MyPortfolio\node_modules\caniuse-lite\data\features\constraint-validation.js133816127373319443 0
@@ -3403,7 +3381,6 @@
 65G:\MyPortfolio\node_modules\caniuse-lite\data\features\fileapi.js133816127376598573 0
 69G:\MyPortfolio\node_modules\caniuse-lite\data\features\flexbox-gap.js133816127376681271 0
 84G:\MyPortfolio\node_modules\@parcel\runtime-js\src\helpers\browser\preload-loader.js133816127391430655 0
-101G:\MyPortfolio\node_modules\.cache\gh-pages\https!github.com!Devilliazer!my-portfolio\.git\objects\2f133816211054752691 1
 67G:\MyPortfolio\node_modules\caniuse-lite\data\features\flow-root.js133816127376713768 0
 66G:\MyPortfolio\node_modules\@parcel\transformer-babel\src\utils.js133816127391022956 0
 77G:\MyPortfolio\node_modules\@parcel\runtime-js\lib\helpers\node\css-loader.js133816127391291361 0
@@ -3484,7 +3461,6 @@
 68G:\MyPortfolio\node_modules\caniuse-lite\data\features\matchmedia.js133816127378573076 0
 58G:\MyPortfolio\node_modules\@parcel\runtime-service-worker133816127390748757 1
 64G:\MyPortfolio\node_modules\caniuse-lite\data\features\mathml.js133816127378583511 0
-105G:\MyPortfolio\node_modules\.cache\gh-pages\https!github.com!Devilliazer!my-portfolio\.git\COMMIT_EDITMSG133816211055839894 0
 67G:\MyPortfolio\node_modules\caniuse-lite\data\features\maxlength.js133816127378583511 0
 89G:\MyPortfolio\node_modules\caniuse-lite\data\features\mdn-css-backdrop-pseudo-element.js133816127378605592 0
 88G:\MyPortfolio\node_modules\caniuse-lite\data\features\mdn-css-unicode-bidi-plaintext.js133816127378615636 0
@@ -3594,7 +3570,6 @@
 72G:\MyPortfolio\node_modules\@swc\helpers\_\_define_property\package.json133816127374090437 0
 79G:\MyPortfolio\node_modules\caniuse-lite\data\features\subresource-integrity.js133816127379987401 0
 69G:\MyPortfolio\node_modules\caniuse-lite\data\features\svg-filters.js133816127380003875 0
-97G:\MyPortfolio\node_modules\.cache\gh-pages\https!github.com!Devilliazer!my-portfolio\.git\config133816211055287664 0
 70G:\MyPortfolio\node_modules\caniuse-lite\data\features\svg-fragment.js133816127380013846 0
 67G:\MyPortfolio\node_modules\caniuse-lite\data\features\svg-html5.js133816127380030027 0
 66G:\MyPortfolio\node_modules\caniuse-lite\data\features\svg-smil.js133816127380041944 0
@@ -3630,7 +3605,7 @@
 64G:\MyPortfolio\node_modules\@parcel\package-manager\lib\index.js133816127402692483 0
 69G:\MyPortfolio\node_modules\@parcel\packager-wasm\src\WasmPackager.js133816127394177765 0
 69G:\MyPortfolio\node_modules\caniuse-lite\data\features\wasm-bigint.js133816127380773404 0
-38G:\MyPortfolio\dist\index.2cdaf7bc.css133816200248854259 0
+38G:\MyPortfolio\dist\index.2cdaf7bc.css133816231497317545 0
 46G:\MyPortfolio\node_modules\@parcel\source-map133816127382162761 1
 77G:\MyPortfolio\node_modules\caniuse-lite\data\features\wasm-extended-const.js133816127380785681 0
 75G:\MyPortfolio\node_modules\caniuse-lite\data\features\wasm-relaxed-simd.js133816127380818178 0
@@ -3682,7 +3657,6 @@
 47G:\MyPortfolio\node_modules\braces\lib\utils.js133816127368918075 0
 50G:\MyPortfolio\node_modules\async\flatMapSeries.js133816210866449985 0
 45G:\MyPortfolio\node_modules\base-x\LICENSE.md133816127377897706 0
-115G:\MyPortfolio\node_modules\.cache\gh-pages\https!github.com!Devilliazer!my-portfolio\.git\logs\refs\heads\gh-pages133816211056076528 0
 38G:\MyPortfolio\node_modules\base-x\src133816127377907940 1
 49G:\MyPortfolio\node_modules\base-x\src\index.d.ts133816127377917968 0
 40G:\MyPortfolio\node_modules\async\all.js133816210865936254 0
@@ -4138,7 +4112,6 @@
 49G:\MyPortfolio\node_modules\@parcel\namer-default133816127401020788 1
 54G:\MyPortfolio\node_modules\@parcel\node-resolver-core133816127379148338 1
 54G:\MyPortfolio\node_modules\@parcel\optimizer-htmlnano133816127397363461 1
-118G:\MyPortfolio\node_modules\.cache\gh-pages\https!github.com!Devilliazer!my-portfolio\.git\hooks\pre-applypatch.sample133816211038609130 0
 51G:\MyPortfolio\node_modules\@parcel\optimizer-image133816127394450897 1
 49G:\MyPortfolio\node_modules\@parcel\optimizer-swc133816127399161433 1
 48G:\MyPortfolio\node_modules\@parcel\packager-css133816127397140018 1
@@ -4274,7 +4247,6 @@
 55G:\MyPortfolio\node_modules\@parcel\transformer-svg\src133816127385096455 1
 77G:\MyPortfolio\node_modules\@parcel\transformer-svg\test\parseFuncIRI.test.js133816127385083877 0
 71G:\MyPortfolio\node_modules\@parcel\transformer-svg\src\dependencies.js133816127385053569 0
-153G:\MyPortfolio\node_modules\.cache\gh-pages\https!github.com!Devilliazer!my-portfolio\.git\objects\pack\pack-4b9cc18b2a7f374a846cbb43ba4b62670e9e95a0.idx133816211047284888 0
 65G:\MyPortfolio\node_modules\@parcel\transformer-svg\src\inline.js133816127385073709 0
 71G:\MyPortfolio\node_modules\@parcel\transformer-svg\lib\dependencies.js133816127385053569 0
 70G:\MyPortfolio\node_modules\@parcel\transformer-react-refresh-wrap\lib133816127385490830 1
@@ -4298,7 +4270,7 @@
 75G:\MyPortfolio\node_modules\@parcel\transformer-image\src\validateConfig.js133816127388969836 0
 78G:\MyPortfolio\node_modules\@parcel\node-resolver-core\lib\builtins.browser.js133816127379109102 0
 77G:\MyPortfolio\node_modules\@parcel\transformer-image\lib\ImageTransformer.js133816127388938218 0
-39G:\MyPortfolio\dist\avatar.a3c6ab3e.jpg133816200248864259 0
+39G:\MyPortfolio\dist\avatar.a3c6ab3e.jpg133816231497366211 0
 75G:\MyPortfolio\node_modules\@parcel\transformer-image\lib\validateConfig.js133816127388957167 0
 75G:\MyPortfolio\node_modules\@parcel\transformer-html\src\HTMLTransformer.js133816127387330155 0
 83G:\MyPortfolio\node_modules\@parcel\transformer-html\node_modules\srcset\index.d.ts133816127403593650 0
@@ -4423,7 +4395,6 @@
 70G:\MyPortfolio\node_modules\@parcel\packager-js\src\CJSOutputFormat.js133816127395417673 0
 66G:\MyPortfolio\node_modules\@parcel\packager-js\src\dev-prelude.js133816127395454963 0
 70G:\MyPortfolio\node_modules\@parcel\packager-js\src\ESMOutputFormat.js133816127395516266 0
-101G:\MyPortfolio\node_modules\.cache\gh-pages\https!github.com!Devilliazer!my-portfolio\.git\objects\f1133816211054872182 1
 62G:\MyPortfolio\node_modules\@parcel\packager-js\src\helpers.js133816127395551614 0
 60G:\MyPortfolio\node_modules\@parcel\packager-js\src\index.js133816127395594724 0
 60G:\MyPortfolio\node_modules\@parcel\packager-js\src\utils.js133816127395655352 0
@@ -4567,7 +4538,6 @@
 56G:\MyPortfolio\node_modules\@parcel\events\lib\errors.js133816127407370834 0
 55G:\MyPortfolio\node_modules\@parcel\events\lib\index.js133816127407392657 0
 62G:\MyPortfolio\node_modules\@parcel\events\lib\ValueEmitter.js133816127407442490 0
-107G:\MyPortfolio\node_modules\.cache\gh-pages\https!github.com!Devilliazer!my-portfolio\index.44983732.js.map133816211054471106 0
 50G:\MyPortfolio\node_modules\@parcel\diagnostic\lib133816127405153770 1
 54G:\MyPortfolio\node_modules\@parcel\diagnostic\LICENSE133816127405123894 0
 50G:\MyPortfolio\node_modules\@parcel\diagnostic\src133816127405128938 1
@@ -4721,7 +4691,6 @@
 65G:\MyPortfolio\node_modules\@parcel\core\lib\public\Dependency.js133816127407569645 0
 66G:\MyPortfolio\node_modules\@parcel\core\lib\public\Environment.js133816127407747630 0
 73G:\MyPortfolio\node_modules\@parcel\core\lib\public\MutableBundleGraph.js133816127407930510 0
-95G:\MyPortfolio\node_modules\.cache\gh-pages\https!github.com!Devilliazer!my-portfolio\.git\info133816211038636000 1
 68G:\MyPortfolio\node_modules\@parcel\core\lib\public\PluginOptions.js133816127408586493 0
 61G:\MyPortfolio\node_modules\@parcel\config-default\index.json133816127407380808 0
 58G:\MyPortfolio\node_modules\@parcel\config-default\LICENSE133816127407274879 0
@@ -4823,49 +4792,7 @@
 80G:\MyPortfolio\node_modules\@babel\helper-validator-identifier\lib\identifier.js133816127368569204 0
 75G:\MyPortfolio\node_modules\@babel\helper-validator-identifier\lib\index.js133816127368614833 0
 79G:\MyPortfolio\node_modules\@babel\helper-validator-identifier\lib\index.js.map133816127368614833 0
-43G:\MyPortfolio\node_modules\.cache\gh-pages133816211038588683 1
-85G:\MyPortfolio\node_modules\.cache\gh-pages\https!github.com!Devilliazer!my-portfolio133816211054451101 1
-90G:\MyPortfolio\node_modules\.cache\gh-pages\https!github.com!Devilliazer!my-portfolio\.git133816212176865089 1
-95G:\MyPortfolio\node_modules\.cache\gh-pages\https!github.com!Devilliazer!my-portfolio\.nojekyll133816211047963074 0
-104G:\MyPortfolio\node_modules\.cache\gh-pages\https!github.com!Devilliazer!my-portfolio\index.2cdaf7bc.css133816211054461104 0
-103G:\MyPortfolio\node_modules\.cache\gh-pages\https!github.com!Devilliazer!my-portfolio\index.44983732.js133816211054461104 0
-103G:\MyPortfolio\node_modules\.cache\gh-pages\https!github.com!Devilliazer!my-portfolio\index.9bbb5024.js133816211054471106 0
-113G:\MyPortfolio\node_modules\.cache\gh-pages\https!github.com!Devilliazer!my-portfolio\MyPortfolio.59712999.js.map133816211054471106 0
-101G:\MyPortfolio\node_modules\.cache\gh-pages\https!github.com!Devilliazer!my-portfolio\.git\FETCH_HEAD133816211053203060 0
-96G:\MyPortfolio\node_modules\.cache\gh-pages\https!github.com!Devilliazer!my-portfolio\.git\index133816212176865089 0
-95G:\MyPortfolio\node_modules\.cache\gh-pages\https!github.com!Devilliazer!my-portfolio\.git\logs133816211047950378 1
-100G:\MyPortfolio\node_modules\.cache\gh-pages\https!github.com!Devilliazer!my-portfolio\.git\ORIG_HEAD133816211054219313 0
-102G:\MyPortfolio\node_modules\.cache\gh-pages\https!github.com!Devilliazer!my-portfolio\.git\packed-refs133816211047928051 0
-95G:\MyPortfolio\node_modules\.cache\gh-pages\https!github.com!Devilliazer!my-portfolio\.git\refs133816211068196086 1
-98G:\MyPortfolio\node_modules\.cache\gh-pages\https!github.com!Devilliazer!my-portfolio\.git\shallow133816211045109585 0
-100G:\MyPortfolio\node_modules\.cache\gh-pages\https!github.com!Devilliazer!my-portfolio\.git\refs\tags133816211043358963 1
-110G:\MyPortfolio\node_modules\.cache\gh-pages\https!github.com!Devilliazer!my-portfolio\.git\refs\remotes\origin133816211068206640 1
-119G:\MyPortfolio\node_modules\.cache\gh-pages\https!github.com!Devilliazer!my-portfolio\.git\refs\remotes\origin\gh-pages133816211068196086 0
-110G:\MyPortfolio\node_modules\.cache\gh-pages\https!github.com!Devilliazer!my-portfolio\.git\refs\heads\gh-pages133816211056076528 0
-101G:\MyPortfolio\node_modules\.cache\gh-pages\https!github.com!Devilliazer!my-portfolio\.git\objects\4a133816211054999416 1
-101G:\MyPortfolio\node_modules\.cache\gh-pages\https!github.com!Devilliazer!my-portfolio\.git\objects\c7133816211056065998 1
-103G:\MyPortfolio\node_modules\.cache\gh-pages\https!github.com!Devilliazer!my-portfolio\.git\objects\info133816211038666083 1
-103G:\MyPortfolio\node_modules\.cache\gh-pages\https!github.com!Devilliazer!my-portfolio\.git\objects\pack133816211047963074 1
-154G:\MyPortfolio\node_modules\.cache\gh-pages\https!github.com!Devilliazer!my-portfolio\.git\objects\pack\pack-4b9cc18b2a7f374a846cbb43ba4b62670e9e95a0.pack133816211054609623 0
-153G:\MyPortfolio\node_modules\.cache\gh-pages\https!github.com!Devilliazer!my-portfolio\.git\objects\pack\pack-4b9cc18b2a7f374a846cbb43ba4b62670e9e95a0.rev133816211047421606 0
-140G:\MyPortfolio\node_modules\.cache\gh-pages\https!github.com!Devilliazer!my-portfolio\.git\objects\f1\d8eae08a49bebe9f8e8d0dce951f8fac8bd62a133816211054752691 0
-140G:\MyPortfolio\node_modules\.cache\gh-pages\https!github.com!Devilliazer!my-portfolio\.git\objects\c7\ff1469674bb62879ffbb1dae29bb708d811813133816211055839894 0
-140G:\MyPortfolio\node_modules\.cache\gh-pages\https!github.com!Devilliazer!my-portfolio\.git\objects\4a\7967e2badcab6bf367c4603bdcda4c5823e057133816211054872182 0
-140G:\MyPortfolio\node_modules\.cache\gh-pages\https!github.com!Devilliazer!my-portfolio\.git\objects\2f\0854a9bba4f831fd7069e567c0b5dc58b325fc133816211054631017 0
-140G:\MyPortfolio\node_modules\.cache\gh-pages\https!github.com!Devilliazer!my-portfolio\.git\objects\25\ae32178b1bebb18660bed8b58840b3cf1cb64b133816211055608888 0
-100G:\MyPortfolio\node_modules\.cache\gh-pages\https!github.com!Devilliazer!my-portfolio\.git\logs\HEAD133816211056076528 0
-100G:\MyPortfolio\node_modules\.cache\gh-pages\https!github.com!Devilliazer!my-portfolio\.git\logs\refs133816211068196086 1
-106G:\MyPortfolio\node_modules\.cache\gh-pages\https!github.com!Devilliazer!my-portfolio\.git\logs\refs\heads133816211047950378 1
-115G:\MyPortfolio\node_modules\.cache\gh-pages\https!github.com!Devilliazer!my-portfolio\.git\logs\refs\remotes\origin133816211068206640 1
-103G:\MyPortfolio\node_modules\.cache\gh-pages\https!github.com!Devilliazer!my-portfolio\.git\info\exclude133816211038645996 0
-118G:\MyPortfolio\node_modules\.cache\gh-pages\https!github.com!Devilliazer!my-portfolio\.git\hooks\applypatch-msg.sample133816211038609130 0
-122G:\MyPortfolio\node_modules\.cache\gh-pages\https!github.com!Devilliazer!my-portfolio\.git\hooks\fsmonitor-watchman.sample133816211038609130 0
-115G:\MyPortfolio\node_modules\.cache\gh-pages\https!github.com!Devilliazer!my-portfolio\.git\hooks\post-update.sample133816211038609130 0
-114G:\MyPortfolio\node_modules\.cache\gh-pages\https!github.com!Devilliazer!my-portfolio\.git\hooks\pre-commit.sample133816211038622043 0
-112G:\MyPortfolio\node_modules\.cache\gh-pages\https!github.com!Devilliazer!my-portfolio\.git\hooks\pre-push.sample133816211038622043 0
-122G:\MyPortfolio\node_modules\.cache\gh-pages\https!github.com!Devilliazer!my-portfolio\.git\hooks\prepare-commit-msg.sample133816211038636000 0
-120G:\MyPortfolio\node_modules\.cache\gh-pages\https!github.com!Devilliazer!my-portfolio\.git\hooks\push-to-checkout.sample133816211038636000 0
-110G:\MyPortfolio\node_modules\.cache\gh-pages\https!github.com!Devilliazer!my-portfolio\.git\hooks\update.sample133816211038636000 0
+43G:\MyPortfolio\node_modules\.cache\gh-pages133816230112685060 1
 45G:\MyPortfolio\node_modules\.bin\browserslist133816127459829570 0
 56G:\MyPortfolio\node_modules\.bin\download-lmdb-prebuilds133816127459839624 0
 60G:\MyPortfolio\node_modules\.bin\download-lmdb-prebuilds.cmd133816127459839624 0
@@ -4896,10 +4823,10 @@
 47G:\MyPortfolio\docs\MyPortfolio.59712999.js.map133816200248886930 0
 38G:\MyPortfolio\dist\index.2c83125a.css133816139041375070 0
 42G:\MyPortfolio\dist\index.2c83125a.css.map133816139041397867 0
-42G:\MyPortfolio\dist\index.2cdaf7bc.css.map133816200248886930 0
-37G:\MyPortfolio\dist\index.44983732.js133816200248864259 0
-41G:\MyPortfolio\dist\index.44983732.js.map133816200248886930 0
-30G:\MyPortfolio\dist\index.html133816200248854259 0
-43G:\MyPortfolio\dist\MyPortfolio.59712999.js133816200248829121 0
+42G:\MyPortfolio\dist\index.2cdaf7bc.css.map133816231497332597 0
+37G:\MyPortfolio\dist\index.44983732.js133816231497377155 0
+41G:\MyPortfolio\dist\index.44983732.js.map133816231497399849 0
+30G:\MyPortfolio\dist\index.html133816241014873026 0
+43G:\MyPortfolio\dist\MyPortfolio.59712999.js133816231497377155 0
 30G:\MyPortfolio\.gitignore\dist133816117916323760 1
 38G:\MyPortfolio\.gitignore\node_modules133816117983096401 1
