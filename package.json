@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "description": "Це мій перший портфоліо-проєкт з Chatgpt, створений за допомогою HTML, CSS та JavaScript.",
   "scripts": {
-    "start": "parcel src/index.html",
-    "build": "parcel build src/",
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
