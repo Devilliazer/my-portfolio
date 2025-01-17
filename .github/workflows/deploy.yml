@@ -5,10 +5,12 @@ on:
     branches:
       - main
 
+
 jobs:
   - name: Disable Jekyll
-  run: touch .nojekyll
-  deploy:
+   run: touch .nojekyll
+   
+ deploy:
     runs-on: ubuntu-latest
 
     steps:
