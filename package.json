@@ -1,24 +1,23 @@
 {
   "name": "myportfolio",
   "version": "1.0.0",
-  "description": "Це мій перший портфоліо-проєкт з Chatgpt, створений за допомогою HTML, CSS та JavaScript.",
+  "description": "Це мій перший портфоліо-проект.",
   "scripts": {
     "start": "parcel src/index.html",
     "build": "parcel build src/index.html --public-url ./",
-    "deploy": "gh-pages -d dist",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "deploy": "gh-pages -d dist"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Devilliazer/my-portfolio.git"
   },
   "keywords": [],
-  "author": "Dimon",
+  "author": "Dmytro",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Devilliazer/my-portfolio/issues"
   },
-  "homepage": "https://github.com/Devilliazer/my-portfolio",
+  "homepage": "https://devilliazer.github.io/my-portfolio",
   "dependencies": {
     "parcel": "^2.13.3"
   },

@@ -1,5 +1,4 @@
 name: Deploy to GitHub Pages
-
 on:
   push:
     branches:
@@ -13,9 +12,12 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v3
 
-      - name: Build project
+      - name: Install dependencies
         run: |
           npm install
+
+      - name: Build project
+        run: |
           npm run build
 
       - name: Deploy to GitHub Pages
@@ -23,3 +25,4 @@ jobs:
         with:
           github_token: ${{ secrets.GH_TOKEN }}
           publish_dir: ./dist
+}
