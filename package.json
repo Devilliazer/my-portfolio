@@ -2,7 +2,6 @@
   "name": "myportfolio",
   "version": "1.0.0",
   "description": "Це мій перший портфоліо-проєкт з Chatgpt, створений за допомогою HTML, CSS та JavaScript.",
-  "main": "index.js",
   "scripts": {
     "start": "parcel src/index.html",
     "build": "parcel build src/index.html",
