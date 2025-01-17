@@ -5,6 +5,7 @@
   "scripts": {
     "start": "parcel src/index.html",
     "build": "parcel build src/index.html --public-url ./",
+    "deploy": "gh-pages -d dist",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -20,5 +21,8 @@
   "homepage": "https://github.com/Devilliazer/my-portfolio",
   "dependencies": {
     "parcel": "^2.13.3"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
   }
 }
