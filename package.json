@@ -3,16 +3,15 @@
   "version": "1.0.0",
   "description": "Це мій перший портфоліо-проєкт з Chatgpt, створений за допомогою HTML, CSS та JavaScript.",
   "scripts": {
-    "start": "parcel index.html",
-    "build": "parcel build index.html",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "parcel src/index.html",
+    "build": "parcel build src/index.html --public-url ./"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Devilliazer/my-portfolio.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Dimon",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Devilliazer/my-portfolio/issues"
