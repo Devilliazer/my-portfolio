@@ -1,0 +1,2 @@
+document.addEventListener("DOMContentLoaded",()=>{document.querySelector("header").addEventListener("click",()=>{alert("Ласкаво прошу, Dmytro!")}),document.querySelector("section img").addEventListener("click",()=>{alert("Це моє фото, дякую за увагу! \uD83D\uDE0A")})});const e=document.getElementById("toggleInfo"),t=document.getElementById("extraInfo");e.addEventListener("click",()=>{"none"===t.style.display?(t.style.display="block",e.textContent="Приховати"):(t.style.display="none",e.textContent="Дізнатися більше")});
+//# sourceMappingURL=index.9bbb5024.js.map
