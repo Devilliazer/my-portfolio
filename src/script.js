@@ -21,3 +21,42 @@ toggleInfo.addEventListener("click", () => {
     toggleInfo.textContent = "Дізнатися більше";
   }
 });
+const form = document.querySelector("form");
+
+form.addEventListener("submit", (e) => {
+  e.preventDefault(); // Зупиняє стандартну дію форми
+
+  // Перевіряємо, чи всі поля заповнені
+  const name = form.querySelector('[name="name"]').value.trim();
+  const email = form.querySelector('[name="email"]').value.trim();
+  const message = form.querySelector('[name="message"]').value.trim();
+
+  if (!name || !email || !message) {
+    alert("Будь ласка, заповніть всі поля!");
+    return false;
+  }
+
+  // Надсилаємо форму
+  fetch(form.action, {
+    method: "POST",
+    headers: {
+      "Content-Type": "application/json",
+    },
+    body: JSON.stringify({
+      name: name,
+      email: email,
+      message: message,
+    }),
+  })
+    .then((response) => {
+      if (response.ok) {
+        alert("Ваше повідомлення успішно надіслано!");
+        form.reset(); // Очищаємо форму після успішного надсилання
+      } else {
+        alert("Сталася помилка. Будь ласка, спробуйте ще раз.");
+      }
+    })
+    .catch((error) => {
+      alert("Не вдалося відправити форму. Перевірте ваше з'єднання.");
+    });
+});

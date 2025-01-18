@@ -9,12 +9,20 @@
     <title>Моє портфоліо</title>
   </head>
   <body>
+    <nav>
+      <ul>
+        <li><a href="#about">Про мене</a></li>
+        <li><a href="#skills">Навички</a></li>
+        <li><a href="#projects">Проєкти</a></li>
+        <li><a href="#contact">Контакти</a></li>
+      </ul>
+    </nav>
     <header>
       <h1>Привіт! Я Dmytro</h1>
       <p>Ласкаво прошу на мою особисту сторінку!</p>
     </header>
 
-    <section>
+    <section id="about">
       <h2>Про мене</h2>
       <img src="/avatar.a3c6ab3e.jpg" alt="Моє фото" width="200">
       <p>Я цікавлюся програмуванням та люблю вирішувати складні завдання.</p>
@@ -25,7 +33,7 @@
       </p>
     </section>
 
-    <section class="skills">
+    <section id="skills" class="skills">
       <h2>Навички</h2>
       <ul>
         <li>HTML / CSS — базовий рівень</li>
@@ -38,18 +46,21 @@
       <h2>Мої проєкти</h2>
       <div class="project-list">
         <div class="project-item">
+          <img src="/project1.8f9907a4.jpg" alt="Проєкт 1">
           <h3>Проєкт 1</h3>
-          <p>Тут шось буде колись</p>
+          <p>Тут шось буде колись, а пока рандом картинка з інтернета</p>
           <a href="https://example.com" target="_blank">Кнопошка 1</a>
         </div>
         <div class="project-item">
+          <img src="/project2.da58e762.jpg" alt="Проєкт 2">
           <h3>Проєкт 2</h3>
-          <p>Тут шось буде колись</p>
+          <p>Тут шось буде колись, а пока рандом картинка з інтернета</p>
           <a href="https://example.com" target="_blank">Кнопошка 2</a>
         </div>
         <div class="project-item">
+          <img src="/project3.a7338429.jpg" alt="Проєкт 3">
           <h3>Проєкт 3</h3>
-          <p>Тут шось буде колись</p>
+          <p>Тут шось буде колись, а пока рандом картинка з інтернета</p>
           <a href="https://example.com" target="_blank">Кнопошка 3 </a>
         </div>
       </div>
@@ -57,18 +68,25 @@
 
     <section id="contact">
       <h2>Зв'язок</h2>
-      <form action="https://formspree.io/f/{your_form_id}" method="POST">
+      <p>Ви можете зв'язатися зі мною через форму або в соціальних мережах:</p>
+      <form action="https://formspree.io/f/xwppdpol" method="POST">
         <label for="name">Ваше ім'я:</label>
         <input type="text" id="name" name="name" placeholder="Введіть ваше ім'я" required="">
 
         <label for="email">Ваш email:</label>
-        <input type="email" id="email" name="email" placeholder="Введіть ваш email" required="">
+        <input type="email" id="email" name="email" placeholder="Введіть ваш email" required="" oninvalid="this.setCustomValidity('Будь ласка, введіть коректний email')" oninput="this.setCustomValidity('')">
 
         <label for="message">Ваше повідомлення:</label>
         <textarea id="message" name="message" placeholder="Введіть ваше повідомлення" required=""></textarea>
 
         <button type="submit">Надіслати</button>
       </form>
+
+      <div class="social-icons">
+        <a href="https://github.com/Devilliazer" target="_blank"><i class="fab fa-github"></i></a>
+        <a href="https://linkedin.com/in/дмитро-чернега/" target="_blank"><i class="fab fa-linkedin"></i></a>
+        <a href="https://t.me/d176212" target="_blank"><i class="fab fa-telegram"></i></a>
+      </div>
     </section>
 
     <footer></footer>

@@ -1,6 +1,7 @@
 body {
   font-family: "Roboto", sans-serif;
 }
+
 body {
   background: linear-gradient(135deg, #f5f7fa, #c3cfe2);
   color: #333;
@@ -10,6 +11,7 @@ body {
   padding: 0;
   background-color: #f4f4f4;
 }
+
 h1,
 h2 {
   color: #2a5298;
@@ -31,6 +33,7 @@ button:hover {
 button {
   transition: background-color 0.3s ease, transform 0.2s ease;
 }
+
 button:hover {
   transform: scale(1.05);
 }
@@ -57,25 +60,34 @@ footer {
   color: #fff;
   margin-top: 20px;
 }
+
 .skills ul li {
-  background-color: #fff; /* початковий колір фону */
-  transition: background-color 0.3s ease; /* плавний перехід протягом 0.3 сек */
+  background-color: #fff;
+  /* початковий колір фону */
+  transition: background-color 0.3s ease;
+  /* плавний перехід протягом 0.3 сек */
   padding: 5px;
   margin: 5px 0;
   border-radius: 4px;
 }
 
 .skills ul li:hover {
-  background-color: #f0f0f0; /* колір при наведенні */
-  cursor: pointer; /* змінюємо курсор на “палець” при наведенні */
+  background-color: #f0f0f0;
+  /* колір при наведенні */
+  cursor: pointer;
+  /* змінюємо курсор на “палець” при наведенні */
 }
 
 section img {
   display: block;
-  margin: 0 auto 10px; /* Вирівнювання по центру та відступ знизу */
-  border-radius: 10px; /* Закруглення кутів для гарнішого вигляду */
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Легка тінь для стилю */
+  margin: 0 auto 10px;
+  /* Вирівнювання по центру та відступ знизу */
+  border-radius: 10px;
+  /* Закруглення кутів для гарнішого вигляду */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  /* Легка тінь для стилю */
 }
+
 section h2 {
   opacity: 0;
   transform: translateY(20px);
@@ -87,6 +99,7 @@ section h2 {
     opacity: 0;
     transform: translateY(20px);
   }
+
   100% {
     opacity: 1;
     transform: translateY(0);
@@ -97,10 +110,13 @@ section h2 {
   background-color: #fff;
   transition: background-color 0.3s ease;
   padding: 10px;
-  margin: 10px 0; /* Збільшений відступ між елементами */
+  margin: 10px 0;
+  /* Збільшений відступ між елементами */
   border-radius: 4px;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Тінь для ефекту глибини */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  /* Тінь для ефекту глибини */
 }
+
 form {
   display: flex;
   flex-direction: column;
@@ -133,11 +149,13 @@ form button:hover {
     opacity: 0;
     transform: translateY(-20px);
   }
+
   100% {
     opacity: 1;
     transform: translateY(0);
   }
 }
+
 h1 {
   animation: fadeIn 1.5s ease-out;
 }
@@ -202,4 +220,175 @@ h1 {
 
 .project-item a:hover {
   background: #0056b3;
+}
+
+/* Стилі для навігації */
+nav {
+  background-color: #333;
+  padding: 10px 20px;
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: space-around;
+}
+
+nav ul li {
+  margin: 0 10px;
+}
+
+nav ul li a {
+  color: white;
+  text-decoration: none;
+  font-size: 18px;
+  transition: color 0.3s ease;
+}
+
+nav ul li a:hover {
+  color: #007bff;
+  /* Синій колір при наведенні */
+}
+
+/* Секція "Мої проєкти" */
+#projects {
+  margin: 40px auto;
+  padding: 20px;
+  max-width: 1200px;
+  background: #f9f9f9;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+#projects h2 {
+  text-align: center;
+  color: #333;
+  margin-bottom: 20px;
+}
+
+.project-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+}
+
+.project-item {
+  flex: 1 1 calc(33.333% - 20px);
+  background: #fff;
+  padding: 15px;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.project-item:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.project-item img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 5px;
+  margin-bottom: 15px;
+}
+
+.project-item h3 {
+  margin: 0 0 10px;
+  color: #007bff;
+}
+
+.project-item p {
+  margin: 0 0 15px;
+  color: #666;
+}
+
+.project-item a {
+  display: inline-block;
+  text-decoration: none;
+  color: #fff;
+  background: #007bff;
+  padding: 10px 15px;
+  border-radius: 5px;
+  transition: background 0.3s ease;
+}
+
+.project-item a:hover {
+  background: #0056b3;
+}
+
+/* Секція "Контакти" */
+#contact {
+  margin: 40px auto;
+  padding: 20px;
+  max-width: 600px;
+  text-align: center;
+  background: #f9f9f9;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+#contact h2 {
+  color: #333;
+  margin-bottom: 20px;
+}
+
+#contact p {
+  margin-bottom: 20px;
+  color: #666;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+form input,
+form textarea {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 16px;
+}
+
+form button {
+  background-color: #007bff;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+form button:hover {
+  background-color: #0056b3;
+}
+
+/* Соціальні іконки */
+.social-icons {
+  margin-top: 20px;
+}
+
+.social-icons a {
+  text-decoration: none;
+  margin: 0 10px;
+  font-size: 24px;
+  color: #333;
+  transition: color 0.3s ease;
+}
+
+.social-icons a:hover {
+  color: #007bff;
 }
