@@ -1,0 +1,84 @@
+/* Глобальні стилі */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    overflow: hidden;
+}
+
+/* Ігрове поле */
+#game-container {
+    position: relative;
+    width: 100vw;
+    height: 100vh;
+    background-image: url('assets/background.jpg');
+    background-size: cover;
+    background-position: center;
+    overflow: hidden;
+}
+
+/* Гравець */
+#player {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    transition: transform 0.1s ease;
+}
+
+/* Противники */
+.enemy {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    background-color: red;
+    border-radius: 50%;
+}
+
+/* Предмети */
+.item {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    background-color: gold;
+    border-radius: 50%;
+}
+
+/* Інтерфейс користувача */
+#ui {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    background: rgba(0, 0, 0, 0.7);
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+/* Джойстик */
+#joystick {
+    position: absolute;
+    bottom: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+}
+
+.middle {
+    display: flex;
+    gap: 10px;
+}
+
+.control-btn {
+    width: 50px;
+    height: 50px;
+    background: rgba(0, 0, 0, 0.7);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 20px;
+}
