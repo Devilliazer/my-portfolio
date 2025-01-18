@@ -102,14 +102,6 @@ section h2 {
   box-shadow: 0 2px 4px #0000001a;
 }
 
-form {
-  flex-direction: column;
-  gap: 10px;
-  max-width: 400px;
-  margin: 20px auto;
-  display: flex;
-}
-
 form input, form textarea, form button {
   border: 1px solid #ccc;
   border-radius: 5px;
@@ -121,10 +113,6 @@ form button {
   cursor: pointer;
   background-color: #333;
   transition: background-color .3s;
-}
-
-form button:hover {
-  background-color: #555;
 }
 
 @keyframes fadeIn {
@@ -141,6 +129,37 @@ form button:hover {
 
 h1 {
   animation: 1.5s ease-out fadeIn;
+}
+
+nav {
+  z-index: 1000;
+  background-color: #333;
+  padding: 10px 20px;
+  position: sticky;
+  top: 0;
+}
+
+nav ul {
+  justify-content: space-around;
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  display: flex;
+}
+
+nav ul li {
+  margin: 0 10px;
+}
+
+nav ul li a {
+  color: #fff;
+  font-size: 18px;
+  text-decoration: none;
+  transition: color .3s;
+}
+
+nav ul li a:hover {
+  color: #007bff;
 }
 
 #projects {
@@ -180,6 +199,13 @@ h1 {
   box-shadow: 0 4px 8px #0003;
 }
 
+.project-item img {
+  border-radius: 5px;
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 15px;
+}
+
 .project-item h3 {
   color: #007bff;
   margin: 0 0 10px;
@@ -202,5 +228,71 @@ h1 {
 
 .project-item a:hover {
   background: #0056b3;
+}
+
+#contact {
+  text-align: center;
+  background: #f9f9f9;
+  border-radius: 8px;
+  max-width: 600px;
+  margin: 40px auto;
+  padding: 20px;
+  box-shadow: 0 2px 5px #0000001a;
+}
+
+#contact h2 {
+  color: #333;
+  margin-bottom: 20px;
+}
+
+#contact p {
+  color: #666;
+  margin-bottom: 20px;
+}
+
+form {
+  flex-direction: column;
+  gap: 15px;
+  max-width: 400px;
+  margin: 0 auto;
+  display: flex;
+}
+
+form input, form textarea {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 10px;
+  font-size: 16px;
+}
+
+form button {
+  color: #fff;
+  cursor: pointer;
+  background-color: #007bff;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  font-size: 16px;
+  transition: background-color .3s;
+}
+
+form button:hover {
+  background-color: #0056b3;
+}
+
+.social-icons {
+  margin-top: 20px;
+}
+
+.social-icons a {
+  color: #333;
+  margin: 0 10px;
+  font-size: 24px;
+  text-decoration: none;
+  transition: color .3s;
+}
+
+.social-icons a:hover {
+  color: #007bff;
 }
 /*# sourceMappingURL=index.2cdaf7bc.css.map */
