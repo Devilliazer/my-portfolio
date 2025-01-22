@@ -85,7 +85,7 @@
 42F:\MyPortfolio\node_modules\weak-lru-cache133816127368972462 1
 100F:\MyPortfolio\node_modules\posthtml\node_modules\dom-serializer\node_modules\entities\lib\decode.js133816127402106680 0
 25F:\MyPortfolio\src\assets133819744227901097 1
-29F:\MyPortfolio\src\index.html133819841226807896 0
+29F:\MyPortfolio\src\index.html133819842009810474 0
 58F:\MyPortfolio\node_modules\@parcel\optimizer-htmlnano\src133816127397358541 1
 77F:\MyPortfolio\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\Doxyfile133816127375740072 0
 82F:\MyPortfolio\node_modules\posthtml\node_modules\entities\lib\decode_codepoint.js133816127402813885 0
