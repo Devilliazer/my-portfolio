@@ -1,9 +1,9 @@
 4861
-32F:\MyPortfolio\node_modules\@swc133819802047786730 1
+32F:\MyPortfolio\node_modules\@swc133819844342225357 1
 88F:\MyPortfolio\node_modules\posthtml\node_modules\dom-serializer\lib\esm\foreignNames.js133816127402464867 0
 78F:\MyPortfolio\node_modules\@swc\helpers\_\_await_async_generator\package.json133816127373913091 0
 89F:\MyPortfolio\node_modules\posthtml\node_modules\htmlparser2\lib\WritableStream.d.ts.map133816127403615864 0
-33F:\MyPortfolio\node_modules\@lmdb133819802047786730 1
+33F:\MyPortfolio\node_modules\@lmdb133819844342235352 1
 54F:\MyPortfolio\node_modules\@parcel\workers\index.d.ts133816127383061929 0
 45F:\MyPortfolio\node_modules\fs-extra\lib\util133816210866067841 1
 67F:\MyPortfolio\node_modules\@nodelib\fs.stat\out\providers\async.js133816210865144925 0
@@ -41,7 +41,7 @@
 73F:\MyPortfolio\node_modules\@swc\helpers\esm\_interop_require_wildcard.js133816127373553606 0
 36F:\MyPortfolio\node_modules\posthtml133816127373016104 1
 59F:\MyPortfolio\node_modules\caniuse-lite\data\regions\AS.js133816127372164281 0
-35F:\MyPortfolio\node_modules\@parcel133819802047786730 1
+35F:\MyPortfolio\node_modules\@parcel133819844342235352 1
 38F:\MyPortfolio\src\assets\project2.jpg133815208463016005 0
 78F:\MyPortfolio\node_modules\caniuse-lite\data\features\document-execcommand.js133816127375940146 0
 24F:\MyPortfolio\README.md133815240976767777 0
@@ -58,14 +58,14 @@
 62F:\MyPortfolio\node_modules\caniuse-lite\data\features\midi.js133816127378732988 0
 47F:\MyPortfolio\node_modules\semver\package.json133816127374567338 0
 36F:\MyPortfolio\node_modules\msgpackr133816127377317771 1
-46F:\MyPortfolio\node_modules\.package-lock.json133819802048222365 0
+46F:\MyPortfolio\node_modules\.package-lock.json133819844342668603 0
 66F:\MyPortfolio\node_modules\lmdb\node_modules\node-addon-api\tools133816127404018787 1
 58F:\MyPortfolio\node_modules\cosmiconfig\dist\readFile.d.ts133816127370232169 0
 65F:\MyPortfolio\node_modules\@swc\helpers\src\_define_property.mjs133816127374695237 0
-27F:\MyPortfolio\node_modules133819802047786730 1
+27F:\MyPortfolio\node_modules133819844342225357 1
 45F:\MyPortfolio\node_modules\fastq\SECURITY.md133816210865430270 0
 42F:\MyPortfolio\node_modules\parcel\LICENSE133816127401352740 0
-32F:\MyPortfolio\package-lock.json133819802048072115 0
+32F:\MyPortfolio\package-lock.json133819844342496523 0
 85F:\MyPortfolio\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mtest3.c133816127377053942 0
 60F:\MyPortfolio\node_modules\@parcel\core\test\Parcel.test.js133816127408007594 0
 42F:\MyPortfolio\node_modules\find-cache-dir133816210865814571 1
@@ -85,7 +85,7 @@
 42F:\MyPortfolio\node_modules\weak-lru-cache133816127368972462 1
 100F:\MyPortfolio\node_modules\posthtml\node_modules\dom-serializer\node_modules\entities\lib\decode.js133816127402106680 0
 25F:\MyPortfolio\src\assets133819744227901097 1
-29F:\MyPortfolio\src\index.html133819842009810474 0
+29F:\MyPortfolio\src\index.html133819846458676995 0
 58F:\MyPortfolio\node_modules\@parcel\optimizer-htmlnano\src133816127397358541 1
 77F:\MyPortfolio\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\Doxyfile133816127375740072 0
 82F:\MyPortfolio\node_modules\posthtml\node_modules\entities\lib\decode_codepoint.js133816127402813885 0
@@ -159,7 +159,7 @@
 38F:\MyPortfolio\node_modules\filenamify133816210865893101 1
 51F:\MyPortfolio\node_modules\@parcel\watcher\LICENSE133816127373771302 0
 72F:\MyPortfolio\node_modules\@swc\helpers\esm\_interop_require_default.js133816127373542343 0
-45F:\MyPortfolio\node_modules\@msgpackr-extract133819802047786730 1
+45F:\MyPortfolio\node_modules\@msgpackr-extract133819844342235352 1
 53F:\MyPortfolio\node_modules\cosmiconfig\dist\merge.js133816127369956944 0
 48F:\MyPortfolio\node_modules\@parcel\workers\test133816127383053480 1
 84F:\MyPortfolio\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\LICENSE133816127375764529 0
