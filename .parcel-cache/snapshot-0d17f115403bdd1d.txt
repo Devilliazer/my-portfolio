@@ -85,7 +85,7 @@
 42F:\MyPortfolio\node_modules\weak-lru-cache133816127368972462 1
 100F:\MyPortfolio\node_modules\posthtml\node_modules\dom-serializer\node_modules\entities\lib\decode.js133816127402106680 0
 25F:\MyPortfolio\src\assets133819744227901097 1
-29F:\MyPortfolio\src\index.html133819799135627675 0
+29F:\MyPortfolio\src\index.html133819841226807896 0
 58F:\MyPortfolio\node_modules\@parcel\optimizer-htmlnano\src133816127397358541 1
 77F:\MyPortfolio\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\Doxyfile133816127375740072 0
 82F:\MyPortfolio\node_modules\posthtml\node_modules\entities\lib\decode_codepoint.js133816127402813885 0
@@ -3217,7 +3217,7 @@
 70F:\MyPortfolio\node_modules\caniuse-lite\data\features\input-number.js133816127377957268 0
 79F:\MyPortfolio\node_modules\caniuse-lite\data\features\css-container-queries.js133816127373794366 0
 62F:\MyPortfolio\node_modules\@parcel\utils\src\shared-buffer.js133816127402500261 0
-32F:\MyPortfolio\.github\workflows133816294331992766 1
+32F:\MyPortfolio\.github\workflows133819824370899436 1
 83F:\MyPortfolio\node_modules\caniuse-lite\data\features\css-container-query-units.js133816127373804807 0
 80F:\MyPortfolio\node_modules\caniuse-lite\data\features\css-content-visibility.js133816127373815077 0
 56F:\MyPortfolio\node_modules\@parcel\logger\src\Logger.js133816127402944596 0
@@ -4859,4 +4859,4 @@
 43F:\MyPortfolio\dist\game\index.f5b4dafc.css133817635484873247 0
 32F:\MyPortfolio\.gitignore\.cache133816118901460703 1
 38F:\MyPortfolio\.gitignore\node_modules133816117983096401 1
-43F:\MyPortfolio\.github\workflows\deploy.yml133816224803554235 0
+43F:\MyPortfolio\.github\workflows\deploy.yml133819824370899436 0
