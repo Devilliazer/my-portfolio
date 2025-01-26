@@ -1,4 +1,4 @@
-4826
+4840
 32F:\MyPortfolio\node_modules\@swc133819844342225357 1
 88F:\MyPortfolio\node_modules\posthtml\node_modules\dom-serializer\lib\esm\foreignNames.js133816127402464867 0
 78F:\MyPortfolio\node_modules\@swc\helpers\_\_await_async_generator\package.json133816127373913091 0
@@ -28,7 +28,7 @@
 47F:\MyPortfolio\node_modules\reusify\.travis.yml133816210864862748 0
 74F:\MyPortfolio\node_modules\caniuse-lite\data\features\intl-pluralrules.js133816127378055343 0
 77F:\MyPortfolio\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\Makefile133816127375822611 0
-19F:\MyPortfolio\dist133819851845310879 1
+19F:\MyPortfolio\dist133824062493956574 1
 79F:\MyPortfolio\node_modules\@swc\helpers\cjs\_iterable_to_array_limit_loose.cjs133816127372877653 0
 70F:\MyPortfolio\node_modules\posthtml\node_modules\domhandler\readme.md133816127403151746 0
 36F:\MyPortfolio\node_modules\entities133816127369031444 1
@@ -69,7 +69,7 @@
 85F:\MyPortfolio\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mtest3.c133816127377053942 0
 60F:\MyPortfolio\node_modules\@parcel\core\test\Parcel.test.js133816127408007594 0
 42F:\MyPortfolio\node_modules\find-cache-dir133816210865814571 1
-18F:\MyPortfolio\src133819785169564255 1
+18F:\MyPortfolio\src133824062137588013 1
 36F:\MyPortfolio\node_modules\@nodelib133816210864132039 1
 79F:\MyPortfolio\node_modules\@parcel\core\test\fixtures\config-extends-not-found133816127406003311 1
 59F:\MyPortfolio\node_modules\caniuse-lite\data\regions\AG.js133816127370915145 0
@@ -85,7 +85,7 @@
 42F:\MyPortfolio\node_modules\weak-lru-cache133816127368972462 1
 100F:\MyPortfolio\node_modules\posthtml\node_modules\dom-serializer\node_modules\entities\lib\decode.js133816127402106680 0
 25F:\MyPortfolio\src\assets133819744227901097 1
-29F:\MyPortfolio\src\index.html133819846458676995 0
+29F:\MyPortfolio\src\index.html133824058931295826 0
 58F:\MyPortfolio\node_modules\@parcel\optimizer-htmlnano\src133816127397358541 1
 77F:\MyPortfolio\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\Doxyfile133816127375740072 0
 82F:\MyPortfolio\node_modules\posthtml\node_modules\entities\lib\decode_codepoint.js133816127402813885 0
@@ -103,11 +103,11 @@
 37F:\MyPortfolio\node_modules\is-number133816127368132709 1
 52F:\MyPortfolio\node_modules\ordered-binary\README.md133816127369403987 0
 75F:\MyPortfolio\node_modules\caniuse-lite\data\features\keyboardevent-key.js133816127378267795 0
-28F:\MyPortfolio\src\style.css133817060789068546 0
+28F:\MyPortfolio\src\style.css133824062137588013 0
 46F:\MyPortfolio\node_modules\async\mapSeries.js133816210866588882 0
 60F:\MyPortfolio\node_modules\cosmiconfig\dist\ExplorerSync.js133816127369898475 0
 53F:\MyPortfolio\node_modules\@parcel\watcher\src\macos133816127374111372 1
-28F:\MyPortfolio\src\script.js133819755533740876 0
+28F:\MyPortfolio\src\script.js133824053056881024 0
 54F:\MyPortfolio\node_modules\utility-types\package.json133816127371618277 0
 73F:\MyPortfolio\node_modules\@parcel\transformer-raw\src\RawTransformer.js133816127387330155 0
 47F:\MyPortfolio\node_modules\escalade\index.d.ts133816127368142772 0
@@ -1012,6 +1012,7 @@
 74F:\MyPortfolio\node_modules\@swc\helpers\esm\_class_private_method_init.js133816127373319443 0
 70F:\MyPortfolio\node_modules\@parcel\core\src\requests\ConfigRequest.js133816127407488566 0
 41F:\MyPortfolio\node_modules\slash\license133816210865342187 0
+41F:\MyPortfolio\dist\index.a941d7a0.js.map133824062493592801 0
 70F:\MyPortfolio\node_modules\posthtml-parser\dist\location-tracker.d.ts133816127372454338 0
 52F:\MyPortfolio\node_modules\fast-glob\out\index.d.ts133816210865761350 0
 76F:\MyPortfolio\node_modules\posthtml\node_modules\entities\lib\maps\xml.json133816127402995640 0
@@ -1314,6 +1315,7 @@
 59F:\MyPortfolio\node_modules\caniuse-lite\data\regions\TR.js133816127380378101 0
 66F:\MyPortfolio\node_modules\posthtml\node_modules\entities\LICENSE133816127402813885 0
 46F:\MyPortfolio\node_modules\msgpackr\unpack.js133816127375950202 0
+42F:\MyPortfolio\dist\index.2cdaf7bc.css.map133819851894483164 0
 59F:\MyPortfolio\node_modules\caniuse-lite\data\regions\MU.js133816127378829171 0
 71F:\MyPortfolio\node_modules\@swc\helpers\_\_async_iterator\package.json133816127373913091 0
 74F:\MyPortfolio\node_modules\posthtml\node_modules\htmlparser2\lib\index.js133816127403531970 0
@@ -2223,12 +2225,14 @@
 55F:\MyPortfolio\node_modules\htmlparser2\lib\Parser.d.ts133816127368707124 0
 59F:\MyPortfolio\node_modules\htmlparser2\lib\Parser.d.ts.map133816127368415058 0
 66F:\MyPortfolio\node_modules\@parcel\transformer-react-refresh-wrap133816127385508297 1
+38F:\MyPortfolio\dist\index.f718d583.css133824062493578993 0
 68F:\MyPortfolio\node_modules\dom-serializer\lib\foreignNames.d.ts.map133816127368281586 0
 50F:\MyPortfolio\node_modules\@parcel\codeframe\test133816127378316691 1
 53F:\MyPortfolio\node_modules\htmlparser2\lib\Parser.js133816127368162970 0
 69F:\MyPortfolio\node_modules\entities\lib\esm\generated\encode-html.js133816127368372937 0
 65F:\MyPortfolio\node_modules\caniuse-lite\data\features\fileapi.js133816127376598573 0
 61F:\MyPortfolio\node_modules\@parcel\reporter-cli\src\utils.js133816127407695557 0
+42F:\MyPortfolio\dist\index.f718d583.css.map133824062493956574 0
 65F:\MyPortfolio\node_modules\@parcel\resolver-default\package.json133816127393750585 0
 57F:\MyPortfolio\node_modules\htmlparser2\lib\Parser.js.map133816127368472907 0
 69F:\MyPortfolio\node_modules\@swc\helpers\_\_class_private_method_init133816127374003398 1
@@ -3673,6 +3677,7 @@
 46F:\MyPortfolio\node_modules\async\findLimit.js133816210866428207 0
 47F:\MyPortfolio\node_modules\async\findSeries.js133816210866428207 0
 44F:\MyPortfolio\node_modules\async\flatMap.js133816210866438889 0
+37F:\MyPortfolio\dist\index.44983732.js133819851894443147 0
 49F:\MyPortfolio\node_modules\async\flatMapLimit.js133816210866438889 0
 42F:\MyPortfolio\node_modules\async\foldr.js133816210866461618 0
 51F:\MyPortfolio\node_modules\async\forEachOfLimit.js133816210866481622 0
@@ -4244,6 +4249,7 @@
 74F:\MyPortfolio\node_modules\@parcel\types-internal\lib\PackageManager.d.ts133816127380330269 0
 71F:\MyPortfolio\node_modules\@parcel\types-internal\lib\PackageName.d.ts133816127380353062 0
 45F:\MyPortfolio\node_modules\@parcel\types\lib133816127384454780 1
+42F:\MyPortfolio\dist\project1.fcb38ad4.webp133819851894383141 0
 49F:\MyPortfolio\node_modules\@parcel\types\LICENSE133816127384422309 0
 45F:\MyPortfolio\node_modules\@parcel\types\src133816127384444805 1
 57F:\MyPortfolio\node_modules\@parcel\source-map\index.d.ts133816127382176839 0
@@ -4817,11 +4823,19 @@
 42F:\MyPortfolio\docs\index.2cdaf7bc.css.map133816299032487612 0
 30F:\MyPortfolio\docs\index.html133816299035259191 0
 43F:\MyPortfolio\docs\MyPortfolio.59712999.js133816290190726128 0
+39F:\MyPortfolio\dist\avatar.a3c6ab3e.jpg133819851894383141 0
 38F:\MyPortfolio\dist\index.272a036d.css133819851845290867 0
+38F:\MyPortfolio\dist\index.2cdaf7bc.css133819851894473146 0
+41F:\MyPortfolio\dist\index.44983732.js.map133819851894453146 0
+37F:\MyPortfolio\dist\index.a941d7a0.js133824062493578993 0
 37F:\MyPortfolio\dist\index.c6a85609.js133819851845290867 0
 41F:\MyPortfolio\dist\index.c6a85609.js.map133819851845310879 0
-30F:\MyPortfolio\dist\index.html133819851845290867 0
+30F:\MyPortfolio\dist\index.html133824062493578993 0
+43F:\MyPortfolio\dist\MyPortfolio.59712999.js133819851894453146 0
+47F:\MyPortfolio\dist\MyPortfolio.59712999.js.map133819851894463172 0
+41F:\MyPortfolio\dist\project2.da58e762.jpg133819851894383141 0
 41F:\MyPortfolio\dist\project3.2dd8fd22.jpg133819851844890887 0
+41F:\MyPortfolio\dist\project3.a7338429.jpg133819851894403146 0
 32F:\MyPortfolio\.gitignore\.cache133816118901460703 1
 38F:\MyPortfolio\.gitignore\node_modules133816117983096401 1
 43F:\MyPortfolio\.github\workflows\deploy.yml133819824370899436 0
