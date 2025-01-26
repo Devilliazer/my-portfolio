@@ -50,5 +50,19 @@ form.addEventListener("submit", (e)=>{
         alert("\u041D\u0435 \u0432\u0434\u0430\u043B\u043E\u0441\u044F \u0432\u0456\u0434\u043F\u0440\u0430\u0432\u0438\u0442\u0438 \u0444\u043E\u0440\u043C\u0443. \u041F\u0435\u0440\u0435\u0432\u0456\u0440\u0442\u0435 \u0432\u0430\u0448\u0435 \u0437'\u0454\u0434\u043D\u0430\u043D\u043D\u044F.");
     });
 });
+document.addEventListener("DOMContentLoaded", ()=>{
+    const menuToggle = document.getElementById("menu-toggle");
+    const mobileMenu = document.getElementById("mobile-menu");
+    menuToggle.addEventListener("click", ()=>{
+        if (mobileMenu.style.display === "block") mobileMenu.style.display = "none";
+        else mobileMenu.style.display = "block";
+    });
+    // Закриття меню при натисканні на посилання
+    document.querySelectorAll("#mobile-menu a").forEach((link)=>{
+        link.addEventListener("click", ()=>{
+            mobileMenu.style.display = "none";
+        });
+    });
+});
 
 //# sourceMappingURL=index.44983732.js.map
