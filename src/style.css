@@ -61,6 +61,9 @@ footer {
   margin-top: 20px;
 }
 
+.skills h2{
+  text-align: center;
+}
 .skills ul li {
   background-color: #fff;
   /* початковий колір фону */
@@ -192,7 +195,16 @@ h1 {
   text-align: center;
   transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
-
+#about h2 {
+  text-align: center;
+}
+#about p {
+  text-align: center;
+}
+#toggleInfo {
+  display: block;
+  margin: 0 auto;
+}
 .project-item:hover {
   transform: translateY(-5px);
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
