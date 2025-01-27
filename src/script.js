@@ -6,7 +6,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
   const avatar = document.querySelector("section img");
   avatar.addEventListener("click", () => {
-    alert("Це моє фото, дякую за увагу! 😊");
+    alert("Це моє фото, дякую за увагу!😊");
   });
 });
 const toggleInfo = document.getElementById("toggleInfo");
