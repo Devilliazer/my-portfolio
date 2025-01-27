@@ -5,7 +5,7 @@ document.addEventListener("DOMContentLoaded", ()=>{
     });
     const avatar = document.querySelector("section img");
     avatar.addEventListener("click", ()=>{
-        alert("\u0426\u0435 \u043C\u043E\u0454 \u0444\u043E\u0442\u043E, \u0434\u044F\u043A\u0443\u044E \u0437\u0430 \u0443\u0432\u0430\u0433\u0443! \uD83D\uDE0A");
+        alert("\u0426\u0435 \u043C\u043E\u0454 \u0444\u043E\u0442\u043E, \u0434\u044F\u043A\u0443\u044E \u0437\u0430 \u0443\u0432\u0430\u0433\u0443!\uD83D\uDE0A");
     });
 });
 const toggleInfo = document.getElementById("toggleInfo");
