@@ -43,6 +43,8 @@ header {
   color: #fff;
   padding: 10px 20px;
   text-align: center;
+  position: relative;
+  z-index: 998;
 }
 
 section {
@@ -409,14 +411,23 @@ form button:hover {
 .hamburger-menu {
   display: none;
   position: fixed;
-  top: 15px;
+  top: 5px;
   right: 20px;
   font-size: 30px;
   color: #afadad;
   cursor: pointer;
   z-index: 1001;
 }
-
+/* Фонова полоска за бургер-меню */
+.hamburger-menu-container {
+  position: fixed;
+  top: 0;
+  right: 0;
+  width: 100%;
+  height: 55px; /* Висота полоски */
+  background-color: #333; /* Такий самий колір, як у navbar */
+  z-index: 900; /* Менше, ніж у бургер-меню */
+}
 /* Стилі для мобільного меню */
 #mobile-menu {
   display: none;
@@ -463,7 +474,9 @@ form button:hover {
   .hamburger-menu {
     display: block;
   }
-
+  .hamburger-menu-container {
+    display: block;
+  }
   nav {
     display: none;
   }
