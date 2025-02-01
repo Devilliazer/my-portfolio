@@ -381,4 +381,58 @@ form button:hover {
     display: none;
   }
 }
+
+#todo {
+  background: #fff;
+  border-radius: 8px;
+  max-width: 400px;
+  margin: 40px auto;
+  padding: 20px;
+  box-shadow: 0 2px 5px #0000001a;
+}
+
+#todo h2 {
+  text-align: center;
+}
+
+#todo-container {
+  flex-direction: column;
+  gap: 10px;
+  display: flex;
+}
+
+.todo-item {
+  background: #f4f4f4;
+  border-radius: 5px;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  display: flex;
+}
+
+.todo-item input {
+  background: none;
+  border: none;
+  flex-grow: 1;
+  font-size: 16px;
+}
+
+.todo-item button {
+  color: #fff;
+  cursor: pointer;
+  background: red;
+  border: none;
+  border-radius: 5px;
+  padding: 5px 10px;
+}
+
+#add-task {
+  color: #fff;
+  cursor: pointer;
+  background-color: #2a5298;
+  border: none;
+  border-radius: 3px;
+  margin: 5px 0 0;
+  padding: 10px 20px;
+}
 /*# sourceMappingURL=index.2cdaf7bc.css.map */
