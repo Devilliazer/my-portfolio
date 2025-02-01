@@ -80,3 +80,60 @@ document.addEventListener("DOMContentLoaded", () => {
     });
   });
 });
+
+// Task manager для сайту 
+document.addEventListener("DOMContentLoaded", () => {
+  const todoContainer = document.getElementById("todo-container");
+
+  function getTasks() {
+    return JSON.parse(localStorage.getItem("tasks")) || [];
+  }
+
+  function saveTasks(tasks) {
+    localStorage.setItem("tasks", JSON.stringify(tasks));
+  }
+
+  function renderTasks() {
+    todoContainer.innerHTML = "";
+    const tasks = getTasks();
+
+    tasks.forEach((task, index) => {
+      const taskEl = document.createElement("div");
+      taskEl.classList.add("todo-item");
+
+      const input = document.createElement("input");
+      input.type = "text";
+      input.value = task.text;
+      input.addEventListener("input", () => {
+        tasks[index].text = input.value;
+        saveTasks(tasks);
+      });
+
+      const removeBtn = document.createElement("button");
+      removeBtn.textContent = "×";
+      removeBtn.addEventListener("click", () => {
+        tasks.splice(index, 1);
+        saveTasks(tasks);
+        renderTasks();
+      });
+
+      taskEl.appendChild(input);
+      taskEl.appendChild(removeBtn);
+      todoContainer.appendChild(taskEl);
+    });
+  }
+
+  document.getElementById("todo").insertAdjacentHTML(
+    "beforeend",
+    `<button id="add-task">Додати задачу</button>`
+  );
+
+  document.getElementById("add-task").addEventListener("click", () => {
+    const tasks = getTasks();
+    tasks.push({ text: "Нова задача" });
+    saveTasks(tasks);
+    renderTasks();
+  });
+
+  renderTasks();
+});

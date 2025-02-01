@@ -481,3 +481,57 @@ form button:hover {
     display: none;
   }
 }
+
+#todo {
+  margin: 40px auto;
+  padding: 20px;
+  max-width: 400px;
+  background: #fff;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+#todo h2 {
+  text-align: center;
+}
+
+#todo-container {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.todo-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  background: #f4f4f4;
+  border-radius: 5px;
+}
+
+.todo-item input {
+  flex-grow: 1;
+  border: none;
+  background: transparent;
+  font-size: 16px;
+}
+
+.todo-item button {
+  background: red;
+  color: white;
+  border: none;
+  padding: 5px 10px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+#add-task {
+  background-color: #2a5298;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 3px;
+  cursor: pointer;
+  margin: 5px 0px 0px;
+}
